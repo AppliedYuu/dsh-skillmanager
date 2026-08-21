@@ -1,0 +1,6 @@
+# dsh-custom-skills bundle patch: mounts the host half as one loader row.
+# The browser half is discovered automatically through the package's
+# `dsh.client` declaration + `exports["./client"]`.
+- insert:
+    - id: dsh-custom-skills
+      name: dsh-custom-skills
