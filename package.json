@@ -1,5 +1,5 @@
 {
-  "name": "dsh-custom-skills",
+  "name": "dsh-skillmanager",
   "version": "0.1.0",
   "description": "DSH web plugin: 在「设置」里管理自定义固定提示词技能文件（新增/删除/单独启停 + 全局开关）。启用的技能内容会在每次模型请求时自动注入系统提示。",
   "type": "module",
