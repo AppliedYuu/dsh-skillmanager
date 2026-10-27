@@ -1,0 +1,20 @@
+# Dependencies / build output
+node_modules/
+
+# Logs
+*.log
+
+# OS + editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local backups / temporary files (e.g. lib/index.js.bak-20261019)
+*.bak
+*.bak-*
+*.orig
+*.tmp
+.tmp*
+
+# Skill notes are NOT kept here: they live in the Obsidian vault
+# (default E:\dsh\DSH-Memory\skills), pointed at by ~/.dsh-skillmanager/config.json.
